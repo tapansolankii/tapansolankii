@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">Master's in Proffessional IT Business and Digtalization</h3>
-<h3 align="center">I'm open for roles in <b>Data Science</b> , <b>Gen AI</b> , <b>Data Engineering</b></h3>
-
 - 🌱 I'm currently learning and practicing **Natural Language Processing , Generative AI and LLM Models**
 
 - 📫 How to reach me **solanki.tapan770@gmail.com**
