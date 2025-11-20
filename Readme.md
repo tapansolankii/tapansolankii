@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">Master's in Proffessional IT Business and Digtalization</h3>
-- 🌱 I'm currently learning and practicing **Natural Language Processing , Generative AI and LLM Models**
+- 🌱 I'm currently Working learning and practicing **ML and LLM Models integration**
 
 - 📫 How to reach me **solanki.tapan770@gmail.com**
 
