@@ -28,6 +28,9 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="docker" width="40" height="40"/>
+</a>
 <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerapps.svg" alt="powerapps" width="40" height="40"/>
 </a>
@@ -40,9 +43,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerautomate.svg" alt="powerautomate" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="docker" width="40" height="40"/>
-</a>
+
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
