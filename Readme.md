@@ -26,11 +26,6 @@
 
 </p>
 
-<div align="center">
-
-  <img src="https://cdn.dribbble.com/users/105977/screenshots/2513025/attachments/494632/developer-coding.gif" width="500" alt="Animated Developer Coding" />
-
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
