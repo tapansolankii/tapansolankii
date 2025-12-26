@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">Master's in Professional IT Business and Digitalization</h3>
 
-<img src="coding.gif" align="right" width="350" alt="Animated Developer Coding" />
+<img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
 
 <p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p>
 <p>📫 How to reach me: <b>solanki.tapan770@gmail.com</b></p>
