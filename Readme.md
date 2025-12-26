@@ -12,7 +12,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imen-bakir" height="30" width="40" /></a>
 </p>
-
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/105977/screenshots/2513025/attachments/494632/developer-coding.gif" width="500" alt="Animated Developer Coding" />
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
