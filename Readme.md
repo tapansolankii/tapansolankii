@@ -1,28 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">Master's in Professional IT Business and Digitalization</h3>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <br />
-      <p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p>
-      <p>📫 How to reach me: <b>solanki.tapan770@gmail.com</b></p>
-      <p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
-      <p>⚡ Fun fact: <b>Summer holidays, code, and coffee—the grind doesn't take a vacation! ☀️💻☕</b></p>
-      <br />
-      <p align="left">
-        <b>Connect with me:</b><br />
-        <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-        </a>
-      </p>
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <img src="coding.gif" width="100%" alt="Animated Developer Coding" />
-    </td>
-  </tr>
-</table>
+<img src="coding.gif" align="right" width="350" alt="Animated Developer Coding" />
 
+<p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p>
+<p>📫 How to reach me: <b>solanki.tapan770@gmail.com</b></p>
+<p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
+<p>⚡ Fun fact: <b>Summer holidays, code, and coffee—the grind doesn't take a vacation! ☀️💻☕</b></p>
+
+<p align="left">
+  <b>Connect with me:</b><br />
+  <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
+
+<br clear="right">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
