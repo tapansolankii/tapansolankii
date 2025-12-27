@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">M.Sc in Professional IT Business and Digitalization</h3>
 <p align="center">
-  <b>AI Engineer | Prompt Engineer | Data Analyst | Data Engineer</b>
+  <b>Technical Architect | AI Engineer | Prompt Engineer | Data Analyst | Data Engineer</b>
 </p>
 <img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
 
