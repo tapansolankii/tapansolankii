@@ -8,14 +8,7 @@
 <p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p>
 <p>📫 How to reach me: <b>solanki.tapan770@gmail.com</b></p>
 <p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
-<p>⚡ Fun fact: <b>Summer holidays, code, and coffee—the grind doesn't take a vacation! ☀️💻☕</b></p>
-
-<p align="left">
-  <b>Connect with me:</b><br />
-  <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+<p>⚡ Fun fact: <b>Summer holidays, code, and coffee->the grind doesn't take a vacation! ☀️💻☕</b></p>
 
 <br clear="right">
 <h3 align="left">Languages and Tools:</h3>
@@ -45,3 +38,13 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
+
+
+
+<br>
+<p align="left">
+  <b>Connect with me:</b><br />
+  <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
