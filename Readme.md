@@ -43,7 +43,7 @@
   </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Automations-Project/n8n-templates/main/n8n-team.svg" alt="n8n" width="40" height="40"/>
 </a>
 
 <br>
