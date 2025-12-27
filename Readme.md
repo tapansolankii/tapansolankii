@@ -43,7 +43,7 @@
   </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Automations-Project/n8n-templates/main/n8n-team.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/ff6d5a/external-n8n-an-extendable-workflow-automation-tool-logo-bold-tal-revivo.png" alt="n8n" width="40" height="40"/>
 </a>
 
 <br>
