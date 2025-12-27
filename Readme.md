@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tapansolankii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">M.Sc in Professional IT Business and Digitalization</h3>
 <p align="center">
