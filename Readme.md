@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Tapan</h1>
 <h3 align="center">M.Sc in Professional IT Business and Digitalization</h3>
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Lead+%7C+Tech+Architect+;AI+%26+ML+Engineer+%7C+Prompt+Engineer+;Data+Analyst+%7C+Data+Engineer+;Software+Product+Management;AI+Product+Management" alt="Typing SVG" /></a>
 </p>
 <img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
