@@ -32,17 +32,29 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerapps.svg" alt="powerapps" width="40" height="40"/> </a>
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerautomate.svg" alt="powerautomate" width="40" height="40"/> 
-  </a>
+<a href="https://powerapps.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"
+       alt="Power Apps"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro">
+  <img src="https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"
+       alt="Dataverse"/>
+</a>
+<a href="https://flow.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white"
+       alt="Power Automate"/>
+</a>
 
+<a href="https://n8n.io/">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png" 
+       alt="n8n" 
+       width="40" 
+       height="40"/>
+</a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a>
-<a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71" alt="n8n" width="40" height="40"/>
-</a>
+
 
 
 
