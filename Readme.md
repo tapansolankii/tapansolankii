@@ -9,7 +9,7 @@
 <img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
 
 <p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p>
-<p>📫 How to reach me: <b>solanki.tapan770@gmail.com</b></p>
+<p>📫 How to reach me:  [LinkedIn](www.linkedin.com/in/tapan-solanki-538609246) or [Email](mailto:solanki.tapan770@gmail.com)</p>
 <p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
 <p>⚡ Fun fact: <b>Summer holidays, code, and coffee->the grind doesn't take a vacation! ☀️💻☕</b></p>
 
