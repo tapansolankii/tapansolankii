@@ -59,12 +59,31 @@
 
 
 <br>
+
+
+### 🗄️Databases / Vector Search
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Postgres%20Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ☁️ Platform / Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,)](https://skillicons.dev" />
+  
+</p>
+
+
+
+
 <p align="left">
   <b>Connect with me:</b><br />
   <a href="https://www.linkedin.com/in/tapan-solanki-538609246/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
+
+
 
 <!-- snake graph -->
 <div align="center">
@@ -79,3 +98,6 @@
   <br />
   <br />
 </div>
+
+
+
