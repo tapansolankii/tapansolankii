@@ -39,7 +39,10 @@
   <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white"
        alt="Power Automate"/>
 </a>
-
+<a href="https://flow.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power%20BI-0078A1?style=for-the-badge&logo=powerBI&logoColor=white"
+       alt="Power BI"/>
+</a>
 <a href="https://n8n.io/">
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png" 
        alt="n8n" 
