@@ -6,8 +6,9 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Lead+%7C+Tech+Architect+;AI+%26+ML+Engineer+%7C+Prompt+Engineer+;Data+Analyst+%7C+Data+Engineer+;Software+Product+Management;AI+Product+Management" alt="Typing SVG" /></a>
 </p>
-<img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
-
+<!--<img src="git.gif" align="right" width="350" alt="Animated Developer Coding" />
+-->
+<img align="right" height="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p>🌱 I'm currently learning and practicing <b>ML and LLM Models integration</b></p><br>
 <p>📫 How to reach me: <a href="www.linkedin.com/in/tapan-solanki-538609246/"><b>Linkedin</b></a> or <a href="mailto:solanki.tapan770@gmail.com"><b>Email</b></a></p>
 <p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
