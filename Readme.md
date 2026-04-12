@@ -84,15 +84,6 @@
 
 
 
-<!-- snake graph -->
-<div align="center">
-  <h2>My Past Contributions</h2>
-  <br />
-
-  <br />
-  <br />
-  <br />
-</div>
 
 
 
