@@ -14,52 +14,34 @@
 <p>📄 Portfolio: <a href="https://tapansolankiportfolio.netlify.app/"><b>Tapan's Portfolio</b></a></p>
 <p>⚡ Fun fact: <b>Summer holidays, code, and coffee->the grind doesn't take a vacation! ☀️💻☕</b></p>
 
-<br clear="right">
-<h3 align="left">-> Languages and Tools:</h3>
-<p>
+<br clear="both" />
 
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-<br><br>
+<!-- Dev Icons (slightly bigger for balance) -->
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="45"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45"/></a>
+<a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="45"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/></a>
+<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="45"/></a>
+<a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="45"/></a>
 
-<a href="https://powerapps.microsoft.com/">
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro">
-<img src="https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-<a href="https://flow.microsoft.com/">
-<img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-</a>
-<a href="https://flow.microsoft.com/">
-<img src="https://img.shields.io/badge/Power%20BI-0078A1?style=for-the-badge&logo=powerBI&logoColor=white"/>
-</a>
+<!-- Badges (smaller style to match icons) -->
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataverse-512BD4?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=flat&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-0078A1?style=flat&logo=powerBI&logoColor=white"/>
 
-<br><br>
-
-<a href="https://n8n.io/">
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png" width="40" height="40"/>
-</a>
-<a href="https://kafka.apache.org/">
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-</a>
+<!-- Tools -->
+<a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n" height="45"/></a>
+<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="45"/></a>
 
 </p>
-
-
-
-
-<br>
-
 
 ### 🗄️Databases / Vector Search
 <p>
